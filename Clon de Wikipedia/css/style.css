@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+.main-title {
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.main-title h1 {
+    font-size: 3.2rem;
+}
+
+.main-title strong {
+    font-size: 1.5rem;
+}
+
+.main-lenguage {
+    margin: 0 auto;
+    width: 54.6rem;
+    height: 32.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.main-lenguage .main-lenguage-container {
+    width: 15.6rem;
+    height: 4.5rem;
+    text-align: center;
+}
+
+.main-lenguage .main-lenguage-img {
+    width: 20rem;
+    height: 18.3rem;
+}
